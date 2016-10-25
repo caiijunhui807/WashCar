@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="titlebar_color">#ffa8a8a8</color>
+    <color name="setting_menu_bg">#ff5e6464</color>
+
+    <color name="mode_title_color">#ffbccdd5</color>
+    <color name="split_color">#dddddd</color>
+
+    <color name="weather_text_color">#ff2f2f2f</color>
+    <color name="main_bg_color">#fff0f0f0</color>
+    <color name="actionbar_separator">#A71717</color>
+    <color name="actionbar_background_start">#CD2626</color>
+    <color name="actionbar_background_end">#EB1818</color>
+
+    <color name="call_colorsubmit">#ff07ae35</color>
+
+    <color name="set_item_normal">#ffffffff</color>
+    <color name="set_item_pressed">#ffaaaaaa</color>
+
+    <color name="search_value_bg">#ccdedede</color>
+
+    <color name="color1">#ff32d01d</color>
+    <color name="color2">#fffff000</color>
+    <color name="color3">#ffff9600</color>
+    <color name="color4">#ffff0f00</color>
+    <color name="color5">#ffb106d0</color>
+    <color name="color6">#ff820700</color>
+    <color name="color7">#ffcccfcc</color>
+    <color name="search_pm">#ff6a7785</color>
+    <color name="search_value">#ff363636</color>
+    <color name="search_unit">#ff610600</color>
+
+    <color name="search_voc">#ff5189fa</color>
+    <color name="search_aqi">#ff000000</color>
+    <color name="search_unit_color">#ff3452c2</color>
+
+    <color name="menu_text_selected">#ffa200</color>
+
+    <color name="transparent">#00000000</color>
+    <color name="province_text_color">#ff2f2f2f</color>
+
+    <color name="color60">#606060</color>
+    <color name="colorEB">#ebebeb</color>
+    <color name="color80">#808080</color>
+    <color name="colorA4">#a4a4a4</color>
+    <color name="color89">#898989</color>
+    <color name="colorB3">#b3b3b3</color>
+    <color name="colorSplit">#dddddd</color>
+    <color name="color44">#444444</color>
+    <color name="colorCE">#cecece</color>
+</resources>
